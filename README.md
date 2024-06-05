@@ -1,3 +1,5 @@
+l'objectif est d'avoir à la fin un fichier .jar
+
 Algorithmes à rajouter: 
   Graphs:
     Dijkstra (plus court chemin)
