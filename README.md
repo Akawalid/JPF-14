@@ -1,3 +1,6 @@
+useful ressources: 
+  https://github.com/cp-algorithms/cp-algorithms/tree/master/src
+
 l'objectif est d'avoir à la fin un fichier .jar
 
 Algorithmes à rajouter: 
