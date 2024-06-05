@@ -2,11 +2,12 @@ l'objectif est d'avoir à la fin un fichier .jar
 
 Algorithmes à rajouter: 
   Graphs:
-    Dijkstra (plus court chemin)
-    D-sature (coloriage)
+    Dijkstra + bellman-ford + floyd + bellman(plus court chemin)
+    D-sature + welch-et-powcel (coloriage)
     bfs / dfs (parcours)
-    Korsaraju's (composantes fortemment connexes)
+    Korsaraju's + tarjan (composantes fortemment connexes)
     Tri topologique (parcours)
+    Kruksal (arbre couvrant lee poid minimaume)
     
   Tableaux:
     Tri rapide / fusion
